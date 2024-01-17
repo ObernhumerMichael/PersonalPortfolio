@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<div class="text-4xl">Test</div>
+<div class="text-3xl">Test</div>
+<div class="text-lg">Test</div>
+_____________
+<div class="text-lg">Test</div>
+<div class="text-base italic">Test</div>
+<div class="text-">Test</div>
